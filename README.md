@@ -1,0 +1,1 @@
+[fastapi](https://fast-api-feralninja.replit.app/docs)
