@@ -1,8 +1,6 @@
-fastapi server deployed
 
-[fastapi](https://fast-api-feralninja.replit.app/)
+[fastapi](https://fast-api-feralninja.replit.app/) fastapi server deployed
 
-api documentation and test interface (auto generated)
 
-[swagger ui](https://fast-api-feralninja.replit.app/docs)
+[swagger ui](https://fast-api-feralninja.replit.app/docs) api documentation and test interface (auto generated)
 
